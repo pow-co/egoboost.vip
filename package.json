@@ -1,0 +1,11 @@
+{
+  "name": "egoboost",
+  "version": "0.0.1",
+  "description": "",
+  "main": "\\",
+  "scripts": {
+    "test": "\\"
+  },
+  "author": "",
+  "license": "ISC"
+}
